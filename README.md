@@ -9,7 +9,7 @@ OpenCraft is an open source implementation of the popular game InfiniteCraft.
 
 ## Setup
 
-Download the `mistral-7b-instruct-v0.1.Q8_0.gguf` into the server/models folder. You can downloa it [here](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/tree/main).
+Download the `mistral-7b-instruct-v0.1.Q8_0.gguf` into the server/models folder. You can downloa it [here](https://huggingface.co/TheBloke /Mistral-7B-Instruct-v0.1-GGUF/tree/main).
 
 Please make sure to run both the frontend and the backend servers, otherwise OpenCraft will not work.
 
